@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jenn!
-- 👀 I’m interested pursuing a graduate degree in Human-Computer Interaction.
-- 🌱 I’m currently supporting [_Modeling to Learn_](https://mtl.how) Operations.
+- 🌱 I’m currently supporting [Modeling to Learn](https://mtl.how) Operations on [Team Participatory System Dynamics](https://mtl.how/teampsd).
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/jnniferli/)!
 
 <!---
