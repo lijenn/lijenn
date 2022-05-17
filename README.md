@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jenn!
-- 🌱 I’m currently supporting [Modeling to Learn](https://mtl.how) Operations on [Team Participatory System Dynamics](https://mtl.how/teampsd).
+- 🌱 I’m currently supporting [Modeling to Learn](https://mtl.how) Development and Operations on [Team Participatory System Dynamics](https://mtl.how/teampsd).
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/jnniferli/)!
 
 <!---
