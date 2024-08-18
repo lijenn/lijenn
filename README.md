@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jenn!
-- 💻 I'm currently a human-centered design consultant and user experience researcher at the [National Center for PTSD](https://www.ptsd.va.gov/) at the VA Palo Alto Health Care System.
-- 👩🏻‍🎓 I just graduated with my Master's in Information focusing on Human-Computer Interaction at the [University of Michigan School of Information](https://www.si.umich.edu/). Go Blue!
-- 📫 Let's talk! Reach out to me on [LinkedIn](https://www.linkedin.com/in/lijenn/).
+- 💻 I'm a health systems research consultant and user experience researcher at the Department of Veterans Affairs.
+- 👩🏻‍🎓 I just graduated with my Master's in Information/Human-Computer Interaction at the [University of Michigan School of Information](https://www.si.umich.edu/). Go Blue!
+- 📫 I love listening to and learning from passionate people from various expertise and projects. I welcome any feedback you have on public repos that I'm a part of :)
 
 <!---
 lijenn/lijenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
