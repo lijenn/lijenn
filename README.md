@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jenn!
-- 💻 I'm a health systems research consultant and user experience researcher at the Department of Veterans Affairs.
-- 👩🏻‍🎓 I just graduated with my Master's in Information/Human-Computer Interaction at the [University of Michigan School of Information](https://www.si.umich.edu/). Go Blue!
+- 💻 I'm a health systems research consultant in the National Center for PTSD at the VA Palo Alto Health Care System.
+- 👩🏻‍🎓 I graduated with my Master's in Information/Human-Computer Interaction at the [University of Michigan School of Information](https://www.si.umich.edu/). Go Blue!
 - 📫 I love listening to and learning from passionate people from various expertise and projects. I welcome any feedback you have on public repos that I'm a part of :)
 
 <!---
